@@ -1,0 +1,15 @@
+{
+  "columns": 48,
+  "image": "m.png",
+  "imageheight": 352,
+  "imagewidth": 768,
+  "margin": 0,
+  "name": "colored_packed",
+  "spacing": 0,
+  "tilecount": 1056,
+  "tiledversion": "1.4.2",
+  "tileheight": 16,
+  "tilewidth": 16,
+  "type": "tileset",
+  "version": 1.4
+}
